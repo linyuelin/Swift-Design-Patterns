@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B69308AC-6CF4-4382-AED9-41BFC840AFF3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D247CF8-92A7-4D19-B3D4-0BB793D97515"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMBindingsBus/Bus.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "subscribeOnMain(_:block:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D247CF8-92A7-4D19-B3D4-0BB793D97515 - a7da116f1565a1af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMBindingsBus.Bus.subscribeOnMain(_: MVVMBindingsBus.Bus.EventType, block: (MVVMBindingsBus.Event&lt;Swift.Array&lt;MVVMBindingsBus.User&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/Bus.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "299">
+               </Location>
+               <Location
+                  uuid = "3D247CF8-92A7-4D19-B3D4-0BB793D97515 - a7da116f1565a1af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMBindingsBus.Bus.subscribeOnMain(_: MVVMBindingsBus.Bus.EventType, block: (MVVMBindingsBus.Event&lt;Swift.Array&lt;MVVMBindingsBus.User&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/Bus.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF2E23DF-346F-4118-A89D-8B0C299F5433"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMBindingsBus/Bus.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "publish(type:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FF2E23DF-346F-4118-A89D-8B0C299F5433 - a127abe59a30c10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMBindingsBus.Bus.publish(type: MVVMBindingsBus.Bus.EventType, _: MVVMBindingsBus.UserFetchEvent) -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/Bus.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "327">
+               </Location>
+               <Location
+                  uuid = "FF2E23DF-346F-4118-A89D-8B0C299F5433 - 947b0999a2dfd8f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MVVMBindingsBus.Bus.Subscription) -&gt; () in MVVMBindingsBus.Bus.publish(type: MVVMBindingsBus.Bus.EventType, _: MVVMBindingsBus.UserFetchEvent) -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/Bus.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  uuid = "FF2E23DF-346F-4118-A89D-8B0C299F5433 - a127abe59a30c73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMBindingsBus.Bus.publish(type: MVVMBindingsBus.Bus.EventType, _: MVVMBindingsBus.UserFetchEvent) -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/Bus.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A0B522F-0939-45B6-B325-383FC4EF19F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMBindingsBus/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A0B522F-0939-45B6-B325-383FC4EF19F8 - c62bb78bdeefd18e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMBindingsBus.Event&lt;Swift.Array&lt;MVVMBindingsBus.User&gt;&gt;) -&gt; () in MVVMBindingsBus.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "325">
+               </Location>
+               <Location
+                  uuid = "9A0B522F-0939-45B6-B325-383FC4EF19F8 - c62bb78bdeefd18e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMBindingsBus.Event&lt;Swift.Array&lt;MVVMBindingsBus.User&gt;&gt;) -&gt; () in MVVMBindingsBus.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "267">
+               </Location>
+               <Location
+                  uuid = "9A0B522F-0939-45B6-B325-383FC4EF19F8 - c62bb78bdeefd18e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMBindingsBus.Event&lt;Swift.Array&lt;MVVMBindingsBus.User&gt;&gt;) -&gt; () in MVVMBindingsBus.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "302">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "742C672A-B790-4ED8-A642-836DB5473CB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMBindingsBus/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "742C672A-B790-4ED8-A642-836DB5473CB9 - c62bb78bdeefd148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMBindingsBus.Event&lt;Swift.Array&lt;MVVMBindingsBus.User&gt;&gt;) -&gt; () in MVVMBindingsBus.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "765">
+               </Location>
+               <Location
+                  uuid = "742C672A-B790-4ED8-A642-836DB5473CB9 - c62bb78bdeefd148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMBindingsBus.Event&lt;Swift.Array&lt;MVVMBindingsBus.User&gt;&gt;) -&gt; () in MVVMBindingsBus.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MVVMBindingsBus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dreamtank/Swift-Design-Patterns/MVVMBindingsBus/MVVMBindingsBus/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "531">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "378243AF-BDE8-407F-804E-17CC327D12A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMBindingsBus/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchUserList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8574A0A1-04B7-4CD1-9A94-AF6FEAFFCE89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMBindingsBus/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchUserList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F99C2E9-23EE-45BF-8284-2D95A33B73A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMBindingsBus/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchUserList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

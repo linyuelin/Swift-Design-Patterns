@@ -7,9 +7,9 @@
 
 import Foundation
 
-// object
-//protocol
-//ref to interactor , router , view 
+// オブジェクト
+//プロトコル
+//インタラクター、ルーター、ビューへの参照
 enum FetchError: Error {
     case failed
 }
